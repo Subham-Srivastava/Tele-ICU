@@ -6,7 +6,8 @@
 * [INSTALLATION](#installation-)
 * [DEMO](#demo-)
 * [TECHNOLOGIES USED](#technologies-used-)
-* [PROCESS FLOW](#process-flow)
+* [PROCESS FLOW](#process-flow-)
+* [RESULT EVALUATIONS](#result-evaluations)
 
 ## Introduction 📖
 
@@ -39,6 +40,8 @@ Install Libraries
 - [FLASK](https://flask.palletsprojects.com/en/3.0.x/)
 - [PYTHON](https://docs.python.org/3/)
 
-## Process Flow
+## Process Flow ⏳
 
 ![Process flow](https://github.com/user-attachments/assets/83c8af63-6b07-4200-b0b2-1fe3f156eba0)
+
+##Result Evaluations 📉
