@@ -13,7 +13,7 @@
 * [TECHNOLOGIES USED](#technologies-used-)
 * [PROCESS FLOW](#process-flow-)
 * [SAMPLE OUTPUTS](#sample-outputs-)
-* [RESULT EVALUATIONS](#result-evaluations)
+* [RESULT EVALUATIONS](#result-evaluations-)
 
 ## Introduction 📖
 
