@@ -1,0 +1,14 @@
+names:
+- family
+- medical staff
+- patient
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: teleicu4
+  url: https://universe.roboflow.com/datasets-tghd8/teleicu4/dataset/2
+  version: 2
+  workspace: datasets-tghd8
+test: /content/TeleICU4-2/test/images
+train: /content/TeleICU4-2/train/images
+val: /content/TeleICU4-2/valid/images
