@@ -1,18 +1,16 @@
-## TeleICU Monitoring System
+# TeleICU Monitoring System
 
 ## Index
 
-- [INTRODUCTION](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#introduction-)
-- [INSTALLATION](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#installation-)
-- [DEMO](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#demo-)
-- [TECHNOLOGIES USED](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#technologies-used-)
-- [PROCESS FLOW](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#process-flow-)
+* [INTRODUCTION](#introduction-)
+* [INSTALLATION](#installation-)
+* [DEMO](#demo-)
+* [TECHNOLOGIES USED](#technologies-used-)
+* [PROCESS FLOW](#process-flow)
 
-# Introduction 📖
+## Introduction 📖
 
 Under the TeleICU project, it primarily focuses on improving remote patient monitoring in ICUs with cutting-edge computer vision. In the wake of this, YOLOv8 is deployed to automatically identify and track patients' behavioral activities through an efficient real-time object detection model for improved remote monitoring by health experts. This goes a long way to ensuring better response times and outcome for patients at the same time. TeleICU by YOLOv8, this brings along better efficiency and effectiveness of critical care being delivered remotely.
-
-
 
 ## Installation 📥
 
