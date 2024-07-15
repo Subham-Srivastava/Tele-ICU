@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+    {% block start %}
+    <body class="body2">
+    <form action="{{url_for('upload')}}" method="post" enctype="multipart/form-data">
+        <input type="file" id="uploadBtn" name="video" accept=".mp4">
+        <label class="a" for="uploadBtn"><i class="fa fa-download"></i>Select File</label>
+        <input type="submit" id="enter" value="upload">
+        <label class="b" for="enter"><i class="fa fa-upload"></i>Upload</label>
+    </body>
+    {% endblock %}
