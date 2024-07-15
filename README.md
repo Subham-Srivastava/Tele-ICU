@@ -68,7 +68,7 @@ Install Libraries
 
 ## Report 📋
 
-
+[Intel Unnati_PS7_Word.docx](https://github.com/user-attachments/files/16237396/Intel.Unnati_PS7_Word.docx)
 
 ## Conclusion 🚩
 In conclusion, the YOLOv8-embedded Tele-ICU project is really an advanced version toward remote patient monitoring in critical care. In that, the project will have the ability to generate real-time object detection added to monitor patient's behavior, providing the opportunity for healthcare workers to monitor more accurately and meet the developing needs of the patients. It  will lead to better outcomes and time-efficient collaboration will also be realized through the leveling of technological advancement between onsite workers and outside specialists. As telemedicine is revolutionized, the TeleICU Project opens the door to the next generation of answers for solving modern health care dilemmas, creating access to timely, efficient, quality care.
