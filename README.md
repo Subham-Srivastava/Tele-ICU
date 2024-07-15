@@ -1,5 +1,12 @@
-# TeleICU Monitoring System
+## TeleICU Monitoring System
 
+## Index
+
+- [INTRODUCTION](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#introduction-)
+- [INSTALLATION](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#installation-)
+- [DEMO](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#demo-)
+- [TECHNOLOGIES USED](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#technologies-used-)
+- [PROCESS FLOW](https://github.com/Subham-Srivastava/Tele-ICU/edit/main/README.md#process-flow-)
 
 # Introduction 📖
 
@@ -14,7 +21,7 @@ Install Libraries
 ```bash
   pip install -r requirements.txt
 ```
-    
+
 ## Demo 🎬
 
 [https://github.com/Subham-Srivastava/Tele-ICU/issues/1#issue-2408670694](https://github.com/user-attachments/assets/6806ea07-9914-4b62-b8fd-517037f89ca3)
