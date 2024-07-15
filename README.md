@@ -45,6 +45,7 @@ Install Libraries
 - [VS CODE](https://code.visualstudio.com/docs)
 - [FLASK](https://flask.palletsprojects.com/en/3.0.x/)
 - [PYTHON](https://docs.python.org/3/)
+- [GITHUB](https://docs.github.com/en)
 
 ## Process Flow ⏳
 
