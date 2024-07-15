@@ -1,6 +1,6 @@
 # TeleICU Monitoring System 🛌
 
-## Authors
+## Authors ✍🏻
 
  [@Subham-Srivastava](https://github.com/Subham-Srivastava)
 
