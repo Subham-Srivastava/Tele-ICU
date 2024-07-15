@@ -1,0 +1,7 @@
+Flask==3.0.3
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+supervision==0.3.0
+tensorrt==10.2.0.post1
+tensorrt_cu12==10.2.0.post1
+ultralytics==8.2.51
