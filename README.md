@@ -12,7 +12,7 @@
 * [DEMO](#demo-)
 * [TECHNOLOGIES USED](#technologies-used-)
 * [PROCESS FLOW](#process-flow-)
-* [SAMPLE OUTPUTS](#sample-outputs)
+* [SAMPLE OUTPUTS](#sample-outputs-)
 * [RESULT EVALUATIONS](#result-evaluations-)
 
 ## Introduction 📖
@@ -50,7 +50,7 @@ Install Libraries
 
 ![Process flow](https://github.com/user-attachments/assets/83c8af63-6b07-4200-b0b2-1fe3f156eba0)
 
-## Sample Outputs
+## Sample Outputs 🗳️
 
 ![Sample_outputs](https://github.com/user-attachments/assets/123e374e-5959-496b-99b1-9ec2f4e0fc7b)
 
